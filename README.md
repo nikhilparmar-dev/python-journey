@@ -22,20 +22,11 @@ This repository documents my journey from Python fundamentals to backend enginee
 python-journey/
 │
 ├── fundamentals/
-│   ├── variables_data_types/
-│   ├── conditions_loops/
-│   ├── functions/
-│   ├── oop/
-│   ├── exceptions_files/
-│   ├── data_structures/
-│   └── revision_programs/
 │
 ├── practice_projects/
-│   ├── atm_machine/
-│   ├── calculator/
-│   └── student_record_system/
 │
 ├── old_practice/
+│   ├── extra programs/
 │
 ├── README.md
 │
